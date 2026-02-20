@@ -1,3 +1,0 @@
-C:/Users/Anatelly/Documents/STM_TEST/RFID_F4/RFID_F411/build/CMakeFiles/RFID.elf.dir
-C:/Users/Anatelly/Documents/STM_TEST/RFID_F4/RFID_F411/build/CMakeFiles/edit_cache.dir
-C:/Users/Anatelly/Documents/STM_TEST/RFID_F4/RFID_F411/build/CMakeFiles/rebuild_cache.dir
