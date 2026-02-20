@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "pin_macro.h": "c",
+        "var.h": "c",
+        "include.h": "c",
+        "ff.h": "c",
+        "ffconf.h": "c",
+        "bsp_driver_sd.h": "c",
+        "ap3_saver.h": "c",
+        "interface.h": "c",
+        "new": "c",
+        "fifo.h": "c",
+        "ff_gen_drv.h": "c",
+        "fatfs.h": "c",
+        "sd_diskio.h": "c",
+        "global_macro.h": "c",
+        "type_traits": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}

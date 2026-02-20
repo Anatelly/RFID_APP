@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anatelly/Documents/STM_TEST/RFID_F4/RFID_F411/Drivers/CMSIS/Device/startup_stm32f411xe.s
+
